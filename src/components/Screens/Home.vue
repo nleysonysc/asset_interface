@@ -9,7 +9,7 @@
 </script>
 
 <template>
-  Home page
+  Home page asdf
   <button @click="google.script.run.withSuccessHandler(handleClick).textSearch('edom')">test</button>
   <span>{{textVal}}</span>
 </template>
